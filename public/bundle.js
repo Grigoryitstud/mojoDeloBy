@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("hallo");const t=L.map("map").setView([53.899994,27.558725],6);L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{minZoom:6,maxZoom:17,attribution:"© OpenStreetMap"}).addTo(t)})();
